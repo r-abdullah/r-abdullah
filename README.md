@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Psychology and Neuroscience graduate who's passionate about open science and statistical analysis. 
 
-Feel free to check out my CV in my public repositries. I'm still very new to GitHub so always appreciate feedback. 
+<p align="center"> Feel free to check out my CV in my public repositries. I'm still very new to GitHub so always appreciate feedback. 
 
 
 <!--
