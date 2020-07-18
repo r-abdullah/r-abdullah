@@ -1,4 +1,9 @@
-### Hi there 👋
+![](https://github.com/r-abdullah/r-abdullah/blob/master/to%20the%20new%20year%20(1).png)
+
+Welcome to my GitHub profile! I'm a Psychology and Neuroscience graduate who's passionate about open science and statistical analysis. 
+
+Feel free to check out my CV in my public repositries. I'm still very new to GitHub so always appreciate feedback. 
+
 
 <!--
 **r-abdullah/r-abdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
